@@ -17,6 +17,7 @@ pasirasyt ar failins ar ne
 
 Paskaityt apie selenium komandas, kas daro asserta. Tarkim uzkrauna, kad parodytu kazkoki message.
 PRie click WriteLine Succes. Kad message rodo.
+LALALLALASLNSLKASNDLASKNDALKSDN
 
 
 
